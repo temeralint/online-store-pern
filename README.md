@@ -1,5 +1,5 @@
 # online-store-pern
-Онлайн магазин на стеке PERN
+Онлайн магазин на стеке
 **PERN**
 - PosgreSQL
 - ExpressJs
